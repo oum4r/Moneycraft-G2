@@ -1,0 +1,217 @@
+channel,months_since_joining,still_open_pct,at_risk
+Branch,1,96.1,2481
+Branch,2,93.8,2298
+Branch,3,91.8,2150
+Branch,4,89.8,2029
+Branch,5,88.5,1893
+Branch,6,87.2,1782
+Branch,7,85.3,1684
+Branch,8,83.3,1570
+Branch,9,82.2,1476
+Branch,10,80.6,1393
+Branch,11,79.3,1299
+Branch,12,77.6,1213
+Branch,13,76.1,1137
+Branch,14,74.9,1049
+Branch,15,73.8,984
+Branch,16,72.9,913
+Branch,17,72.2,852
+Branch,18,71.2,800
+Branch,19,70.5,741
+Branch,20,69.8,690
+Branch,21,68.4,635
+Branch,22,67.9,574
+Branch,23,67.0,534
+Branch,24,65.6,485
+Branch,25,64.9,433
+Branch,26,64.5,391
+Branch,27,62.3,353
+Branch,28,61.9,303
+Branch,29,61.2,265
+Branch,30,60.7,222
+Branch,31,60.0,181
+Branch,32,59.2,149
+Branch,33,59.2,119
+Branch,34,58.6,94
+Branch,35,56.9,70
+Branch,36,56.9,35
+Broker/IFA,1,97.8,979
+Broker/IFA,2,96.0,931
+Broker/IFA,3,94.3,881
+Broker/IFA,4,92.5,832
+Broker/IFA,5,90.9,788
+Broker/IFA,6,89.1,734
+Broker/IFA,7,87.7,691
+Broker/IFA,8,86.9,642
+Broker/IFA,9,85.3,608
+Broker/IFA,10,84.0,577
+Broker/IFA,11,82.6,544
+Broker/IFA,12,81.0,510
+Broker/IFA,13,80.5,477
+Broker/IFA,14,79.2,448
+Broker/IFA,15,78.1,417
+Broker/IFA,16,77.3,386
+Broker/IFA,17,76.0,355
+Broker/IFA,18,74.8,334
+Broker/IFA,19,73.6,314
+Broker/IFA,20,72.6,283
+Broker/IFA,21,72.6,254
+Broker/IFA,22,70.7,232
+Broker/IFA,23,69.7,209
+Broker/IFA,24,69.7,192
+Broker/IFA,25,69.3,174
+Broker/IFA,26,68.4,156
+Broker/IFA,27,67.4,130
+Broker/IFA,28,66.8,113
+Broker/IFA,29,66.8,98
+Broker/IFA,30,66.8,79
+Broker/IFA,31,65.7,63
+Broker/IFA,32,65.7,53
+Broker/IFA,33,65.7,40
+Broker/IFA,34,63.7,32
+Broker/IFA,35,63.7,17
+Broker/IFA,36,63.7,10
+Comparison Site,1,91.4,4584
+Comparison Site,2,84.7,4024
+Comparison Site,3,79.5,3563
+Comparison Site,4,75.1,3209
+Comparison Site,5,71.7,2912
+Comparison Site,6,67.8,2672
+Comparison Site,7,60.4,2416
+Comparison Site,8,57.6,2044
+Comparison Site,9,55.2,1864
+Comparison Site,10,52.6,1691
+Comparison Site,11,50.2,1536
+Comparison Site,12,47.7,1386
+Comparison Site,13,45.1,1241
+Comparison Site,14,42.7,1119
+Comparison Site,15,40.7,1005
+Comparison Site,16,39.2,903
+Comparison Site,17,37.8,836
+Comparison Site,18,36.6,753
+Comparison Site,19,35.2,689
+Comparison Site,20,33.8,621
+Comparison Site,21,32.8,563
+Comparison Site,22,31.5,497
+Comparison Site,23,30.8,444
+Comparison Site,24,29.7,395
+Comparison Site,25,28.5,340
+Comparison Site,26,27.7,287
+Comparison Site,27,27.1,250
+Comparison Site,28,26.0,219
+Comparison Site,29,25.4,187
+Comparison Site,30,23.9,153
+Comparison Site,31,22.9,122
+Comparison Site,32,22.4,96
+Comparison Site,33,22.1,71
+Comparison Site,34,21.3,53
+Comparison Site,35,20.7,37
+Comparison Site,36,20.7,12
+Online,1,94.7,3851
+Online,2,90.9,3521
+Online,3,87.7,3228
+Online,4,84.9,2995
+Online,5,81.4,2798
+Online,6,79.5,2578
+Online,7,74.7,2408
+Online,8,72.5,2157
+Online,9,70.5,1985
+Online,10,68.2,1822
+Online,11,66.4,1689
+Online,12,64.5,1559
+Online,13,62.6,1416
+Online,14,60.9,1299
+Online,15,58.9,1184
+Online,16,57.2,1082
+Online,17,55.9,998
+Online,18,54.1,914
+Online,19,53.0,832
+Online,20,51.5,760
+Online,21,49.7,694
+Online,22,48.5,618
+Online,23,46.9,549
+Online,24,45.9,495
+Online,25,44.7,437
+Online,26,43.3,392
+Online,27,42.5,340
+Online,28,41.2,303
+Online,29,39.7,246
+Online,30,38.0,206
+Online,31,37.3,167
+Online,32,36.2,132
+Online,33,35.5,105
+Online,34,35.0,76
+Online,35,33.5,47
+Online,36,33.5,23
+Outbound,1,92.8,1962
+Outbound,2,87.2,1735
+Outbound,3,83.0,1567
+Outbound,4,79.3,1422
+Outbound,5,76.3,1286
+Outbound,6,74.3,1179
+Outbound,7,68.5,1109
+Outbound,8,65.8,980
+Outbound,9,63.0,900
+Outbound,10,61.2,818
+Outbound,11,58.9,759
+Outbound,12,57.0,696
+Outbound,13,55.6,637
+Outbound,14,53.6,585
+Outbound,15,52.1,537
+Outbound,16,50.1,490
+Outbound,17,48.3,446
+Outbound,18,46.3,401
+Outbound,19,44.7,365
+Outbound,20,43.3,329
+Outbound,21,41.2,300
+Outbound,22,40.1,263
+Outbound,23,38.6,242
+Outbound,24,37.7,212
+Outbound,25,35.5,190
+Outbound,26,34.6,168
+Outbound,27,32.8,148
+Outbound,28,32.0,127
+Outbound,29,30.9,112
+Outbound,30,29.8,89
+Outbound,31,28.6,75
+Outbound,32,28.1,56
+Outbound,33,26.9,45
+Outbound,34,26.9,34
+Outbound,35,25.7,23
+Outbound,36,25.7,11
+Referral,1,96.5,1875
+Referral,2,93.8,1741
+Referral,3,92.0,1611
+Referral,4,90.7,1519
+Referral,5,89.4,1449
+Referral,6,87.3,1363
+Referral,7,85.7,1290
+Referral,8,84.5,1203
+Referral,9,83.4,1118
+Referral,10,81.9,1065
+Referral,11,80.8,1006
+Referral,12,79.3,930
+Referral,13,78.4,876
+Referral,14,77.5,827
+Referral,15,76.4,769
+Referral,16,74.4,700
+Referral,17,73.3,648
+Referral,18,71.9,594
+Referral,19,70.5,552
+Referral,20,69.2,506
+Referral,21,68.6,470
+Referral,22,67.5,428
+Referral,23,66.0,391
+Referral,24,64.8,348
+Referral,25,63.8,321
+Referral,26,63.4,284
+Referral,27,63.1,249
+Referral,28,62.6,228
+Referral,29,61.6,195
+Referral,30,61.2,163
+Referral,31,60.3,133
+Referral,32,59.7,106
+Referral,33,58.3,82
+Referral,34,58.3,61
+Referral,35,58.3,41
+Referral,36,58.3,18
